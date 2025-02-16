@@ -40,7 +40,7 @@ public class PureFantasy
         modEventBus.addListener(this::addCreative);
 
         //wahhh
-        //test 2
+        //test 3
     }
 
     private void commonSetup(final FMLCommonSetupEvent event)
