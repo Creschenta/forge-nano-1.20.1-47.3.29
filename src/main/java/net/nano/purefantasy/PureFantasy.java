@@ -42,6 +42,7 @@ public class PureFantasy
         //wahhh
         //test 3
         //test 4
+        //test 5
     }
 
     private void commonSetup(final FMLCommonSetupEvent event)
